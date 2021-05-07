@@ -1,0 +1,18 @@
+p{text-decoration:none;
+line-height:1.5;
+text-transform:upercase;
+font-weight:normal;
+font-style:italic;
+color:purple;
+font-size:2em;
+font-family:comic sans ms;
+background:red;
+text-align:justify;}/*commentaire*/
+.paragraphe{color:green;}
+p:hover{color:pink;background:green;}
+input:focus{color:red;background:purple;}
+a{list-style:none;}
+ul{list-style-type:square;}
+ol{list-style-type:none;}
+h1,h2,h6{color:blue;
+font-size:4em;}
